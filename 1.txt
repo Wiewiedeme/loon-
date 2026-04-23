@@ -1,4 +1,4 @@
-
+#Name:自用
 DOMAIN-SUFFIX,apple.com,DIRECT
 DOMAIN-SUFFIX,news.ixbk.net,DIRECT
 DOMAIN-SUFFIX,www.hxm5.com,DIRECT
