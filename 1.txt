@@ -1,0 +1,109 @@
+
+DOMAIN-SUFFIX,apple.com,DIRECT
+DOMAIN-SUFFIX,news.ixbk.net,DIRECT
+DOMAIN-SUFFIX,www.hxm5.com,DIRECT
+DOMAIN-SUFFIX,icloud.com,DIRECT
+DOMAIN-SUFFIX,me.com,DIRECT
+DOMAIN-SUFFIX,apple-dns.net,DIRECT
+DOMAIN-SUFFIX,apps.apple.com,DIRECT
+DOMAIN-SUFFIX,music.apple.com,DIRECT
+DOMAIN-SUFFIX,tv.apple.com,DIRECT
+DOMAIN-SUFFIX,push.apple.com,DIRECT
+DOMAIN-SUFFIX,itunes.apple.com,DIRECT
+DOMAIN-SUFFIX,bilibili.com,DIRECT
+DOMAIN-SUFFIX,hdslb.com,DIRECT
+DOMAIN-SUFFIX,app.xiaodigu.cn,DIRECT
+# ===== 国内常用直连 =====
+DOMAIN-SUFFIX,qq.com,DIRECT
+DOMAIN-SUFFIX,wechat.com,DIRECT
+DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,tenpay.com,DIRECT
+DOMAIN-SUFFIX,alipay.com,DIRECT
+DOMAIN-SUFFIX,taobao.com,DIRECT
+DOMAIN-SUFFIX,tmall.com,DIRECT
+DOMAIN-SUFFIX,jd.com,DIRECT
+DOMAIN-SUFFIX,pinduoduo.com,DIRECT
+DOMAIN-SUFFIX,bilibili.com,DIRECT
+DOMAIN-SUFFIX,iqiyi.com,DIRECT
+DOMAIN-SUFFIX,youku.com,DIRECT
+DOMAIN-SUFFIX,mgtv.com,DIRECT
+DOMAIN-SUFFIX,baidu.com,DIRECT
+DOMAIN-SUFFIX,zhihu.com,DIRECT
+DOMAIN-SUFFIX,weibo.com,DIRECT
+DOMAIN-SUFFIX,douyin.com,DIRECT
+DOMAIN-SUFFIX,kuaishou.com,DIRECT
+DOMAIN-SUFFIX,mi.com,DIRECT
+DOMAIN-SUFFIX,huawei.com,DIRECT
+DOMAIN-SUFFIX,tieba.baidu.com,DIRECT
+# ===== Google =====
+DOMAIN-SUFFIX,google.com,Available
+DOMAIN-SUFFIX,googleapis.com,Available
+DOMAIN-SUFFIX,gstatic.com,Available
+DOMAIN-SUFFIX,googlevideo.com,Available
+DOMAIN-SUFFIX,ggpht.com,Available
+# ===== YouTube =====
+DOMAIN-SUFFIX,youtube.com,Available
+DOMAIN-SUFFIX,ytimg.com,Available
+DOMAIN-SUFFIX,youtu.be,Available
+# ===== Meta =====
+DOMAIN-SUFFIX,facebook.com,Available
+DOMAIN-SUFFIX,fbcdn.net,Available
+DOMAIN-SUFFIX,instagram.com,Available
+DOMAIN-SUFFIX,cdninstagram.com,Available
+DOMAIN-SUFFIX,threads.net,Available
+# ===== X =====
+DOMAIN-SUFFIX,x.com,Available
+DOMAIN-SUFFIX,twitter.com,Available
+DOMAIN-SUFFIX,twimg.com,Available
+# ===== Telegram =====
+DOMAIN-SUFFIX,telegram.org,Available
+DOMAIN-SUFFIX,t.me,Available
+DOMAIN-SUFFIX,telegram.me,Available
+# ===== Discord =====
+DOMAIN-SUFFIX,discord.com,Available
+DOMAIN-SUFFIX,discordapp.com,Available
+# ===== Reddit =====
+DOMAIN-SUFFIX,reddit.com,Available
+DOMAIN-SUFFIX,redd.it,Available
+DOMAIN-SUFFIX,redditstatic.com,Available
+DOMAIN-SUFFIX,redditmedia.com,Available
+DOMAIN-SUFFIX,external-preview.redd.it,Available
+# ===== 流媒体 =====
+DOMAIN-SUFFIX,netflix.com,Available
+DOMAIN-SUFFIX,nflxvideo.net,Available
+DOMAIN-SUFFIX,nflximg.net,Available
+DOMAIN-SUFFIX,hulu.com,Available
+DOMAIN-SUFFIX,disneyplus.com,Available
+DOMAIN-SUFFIX,hbomax.com,Available
+# ===== AI =====
+DOMAIN-SUFFIX,openai.com,Available
+DOMAIN-SUFFIX,chatgpt.com,Available
+DOMAIN-SUFFIX,anthropic.com,Available
+# ===== 开发 =====
+DOMAIN-SUFFIX,github.com,Available
+DOMAIN-SUFFIX,githubusercontent.com,Available
+DOMAIN-SUFFIX,githubassets.com,Available
+DOMAIN-SUFFIX,stackoverflow.com,Available
+# ===== CDN =====
+DOMAIN-SUFFIX,cloudflare.com,Available
+DOMAIN-SUFFIX,workers.dev,Available
+# ===== 内容 =====
+DOMAIN-SUFFIX,wikipedia.org,Available
+DOMAIN-SUFFIX,wikimedia.org,Available
+DOMAIN-SUFFIX,medium.com,Available
+DOMAIN-SUFFIX,substack.com,Available
+# ===== 其他 =====
+DOMAIN-SUFFIX,dropbox.com,Available
+DOMAIN-SUFFIX,dropboxusercontent.com,Available
+DOMAIN-SUFFIX,pinterest.com,Available
+DOMAIN-SUFFIX,twitch.tv,Available
+DOMAIN-SUFFIX,quora.com,Available
+DOMAIN-SUFFIX,archive.org,Available
+DOMAIN-SUFFIX,v2ray.com,Available
+DOMAIN-SUFFIX,polymarket.com,Available
+DOMAIN-SUFFIX,caplayground.vercel.app,Available
+DOMAIN-SUFFIX,nuan1145.eu.cc,DIRECT
+DOMAIN-SUFFIX,as.owo.as,Available
+DOMAIN-SUFFIX,pan.iosxn.cn,DIRECT
+DOMAIN-KEYWORD,gdt.qq.com,REJECT
+DOMAIN-KEYWORD,ad.weixin,REJECT
