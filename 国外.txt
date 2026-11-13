@@ -26,10 +26,3 @@ DOMAIN-SUFFIX,api.asmr-300.com,AVAILABLE
 DOMAIN-SUFFIX,api.asmr.one,AVAILABLE
 
 DOMAIN-SUFFIX,huangguoai.com,AVAILABLE
-DOMAIN,pic.drleao.cn,AVAILABLE
-DOMAIN,new2.drleao.cn,AVAILABLE
-DOMAIN,new.drleao.cn,AVAILABLE
-DOMAIN,image.drleao.cn,AVAILABLE
-DOMAIN,yd-hls.hzjvlo.cn,AVAILABLE
-DOMAIN,yd-lphu-hls.hzjvlo.cn,AVAILABLE
-DOMAIN,tp3.drleao.cn,AVAILABLE
